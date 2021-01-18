@@ -1,4 +1,4 @@
-[Link1](url) - [Link1](url) - [Link1](url) - [Link1](url) 
+[Link1](url) | [Link1](url) | [Link1](url) | [Link1](url)
 
 ## Welcome to GitHub Pages
 
